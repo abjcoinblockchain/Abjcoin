@@ -1,7 +1,7 @@
 
-AbjCoin development tree
+Abjcoin development tree
 
-AbjCoin is a PoS-based cryptocurrency.
+Abjcoin is a PoS-based cryptocurrency.
 
 Development process
 ===========================
@@ -16,7 +16,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-stable release versions of AbjCoin.
+stable release versions of Abjcoin.
 
 Feature branches are created when there are major new features being
 worked on by several people.

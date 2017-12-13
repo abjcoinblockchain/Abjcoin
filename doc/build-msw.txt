@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building AbjCoin QT, the
+See readme-qt.rst for instructions on building Abjcoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,7 +76,7 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-AbjCoin
+Abjcoin
 -------
 DOS prompt:
 cd \abjcoin\src

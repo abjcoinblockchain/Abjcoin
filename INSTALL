@@ -1,9 +1,9 @@
-Building AbjCoin
+Building Abjcoin
 
-See doc/readme-qt.rst for instructions on building AbjCoin QT,
+See doc/readme-qt.rst for instructions on building Abjcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of AbjCoin.
+implementation of Abjcoin.
 
 See doc/build-*.txt for instructions on building abjcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of AbjCoin.
+implementation of Abjcoin.

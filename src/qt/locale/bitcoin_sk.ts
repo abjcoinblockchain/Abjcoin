@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About AbjCoin</source>
-        <translation>O AbjCoine</translation>
+        <source>About Abjcoin</source>
+        <translation>O Abjcoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;AbjCoin&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;AbjCoinu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Abjcoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;Abjcoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AbjCoin developers</source>
+Copyright © 2014 The Abjcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AbjCoin developers</translation>
+Copyright © 2014 The Abjcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your AbjCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše AbjCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your Abjcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Abjcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a AbjCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto AbjCoin adresu</translation>
+        <source>Sign a message to prove you own a Abjcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Abjcoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified AbjCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou AbjCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Abjcoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Abjcoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>AbjCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>AbjCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>Abjcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Abjcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about AbjCoin</source>
-        <translation>Zobraziť informácie o AbjCoin</translation>
+        <source>Show information about Abjcoin</source>
+        <translation>Zobraziť informácie o Abjcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a AbjCoin address</source>
-        <translation>Poslať mince na AbjCoin adresu</translation>
+        <source>Send coins to a Abjcoin address</source>
+        <translation>Poslať mince na Abjcoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for AbjCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre AbjCoin</translation>
+        <source>Modify configuration options for Abjcoin</source>
+        <translation>Upraviť možnosti konfigurácie pre Abjcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>AbjCoin</source>
-        <translation>AbjCoin</translation>
+        <source>Abjcoin</source>
+        <translation>Abjcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About AbjCoin</source>
-        <translation>&amp;O AbjCoin</translation>
+        <source>&amp;About Abjcoin</source>
+        <translation>&amp;O Abjcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>AbjCoin client</source>
-        <translation>AbjCoin klient</translation>
+        <source>Abjcoin client</source>
+        <translation>Abjcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to AbjCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s AbjCoin sieťov</numerusform><numerusform>%n aktívnych spojení s AbjCoin sieťov</numerusform><numerusform>%n aktívnych spojení s AbjCoin sieťou</numerusform></translation>
+        <source>%n active connection(s) to Abjcoin network</source>
+        <translation><numerusform>%n aktívne spojenie s Abjcoin sieťov</numerusform><numerusform>%n aktívnych spojení s Abjcoin sieťov</numerusform><numerusform>%n aktívnych spojení s Abjcoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid AbjCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou AbjCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Abjcoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Abjcoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. AbjCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. AbjCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Abjcoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Abjcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid AbjCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou AbjCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Abjcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Abjcoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>AbjCoin-Qt</source>
-        <translation>AbjCoin-Qt</translation>
+        <source>Abjcoin-Qt</source>
+        <translation>Abjcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start AbjCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť AbjCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start Abjcoin after logging in to the system.</source>
+        <translation>Automaticky spustiť Abjcoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start AbjCoin on system login</source>
-        <translation>&amp;Spustiť AbjCoin pri prihlásení do systému</translation>
+        <source>&amp;Start Abjcoin on system login</source>
+        <translation>&amp;Spustiť Abjcoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the AbjCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta AbjCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Abjcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Abjcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the AbjCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti AbjCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Abjcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Abjcoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting AbjCoin.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní AbjCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Abjcoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Abjcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show AbjCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť AbjCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show Abjcoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť Abjcoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting AbjCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní AbjCoin.</translation>
+        <source>This setting will take effect after restarting Abjcoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Abjcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AbjCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou AbjCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Abjcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Abjcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the AbjCoin-Qt help message to get a list with possible AbjCoin command-line options.</source>
-        <translation>Zobraziť AbjCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku AbjCoin.</translation>
+        <source>Show the Abjcoin-Qt help message to get a list with possible Abjcoin command-line options.</source>
+        <translation>Zobraziť Abjcoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Abjcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>AbjCoin - Debug window</source>
-        <translation>AbjCoin - Ladiace okno</translation>
+        <source>Abjcoin - Debug window</source>
+        <translation>Abjcoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>AbjCoin Core</source>
-        <translation>Jadro AbjCoin</translation>
+        <source>Abjcoin Core</source>
+        <translation>Jadro Abjcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the AbjCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte AbjCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the Abjcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte Abjcoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the AbjCoin RPC console.</source>
-        <translation>Vitajte v konzole AbjCoin RPC.</translation>
+        <source>Welcome to the Abjcoin RPC console.</source>
+        <translation>Vitajte v konzole Abjcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte AbjCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte Abjcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid AbjCoin address</source>
-        <translation>UPOZORNENIE: Neplatná AbjCoin adresa</translation>
+        <source>WARNING: Invalid Abjcoin address</source>
+        <translation>UPOZORNENIE: Neplatná Abjcoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte AbjCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte Abjcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this AbjCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto AbjCoin adresu</translation>
+        <source>Sign the message to prove you own this Abjcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Abjcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified AbjCoin address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou AbjCoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Abjcoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Abjcoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte AbjCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte Abjcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter AbjCoin signature</source>
-        <translation>Zadajte AbjCoin podpis</translation>
+        <source>Enter Abjcoin signature</source>
+        <translation>Zadajte Abjcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>AbjCoin version</source>
-        <translation>AbjCoin verzia</translation>
+        <source>Abjcoin version</source>
+        <translation>Abjcoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2674,8 +2674,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 24115 or testnet: 34115)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 24115 alebo testovacia sieť: 34115)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 29029 or testnet: 39029)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 29029 alebo testovacia sieť: 39029)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2734,8 +2734,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 24116 or testnet: 34116)</source>
-        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 24116 alebo testovaciasieť: 34116)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29030 or testnet: 39030)</source>
+        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 29030 alebo testovaciasieť: 39030)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AbjCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny AbjCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Abjcoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Abjcoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2995,7 +2995,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Abjcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;Abjcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  AbjCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. AbjCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Abjcoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. Abjcoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>AbjCoin</source>
-        <translation>AbjCoin</translation>
+        <source>Abjcoin</source>
+        <translation>Abjcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of AbjCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu AbjCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Abjcoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Abjcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart AbjCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte AbjCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Abjcoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Abjcoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. AbjCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. AbjCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Abjcoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Abjcoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

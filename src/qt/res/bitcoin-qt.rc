@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "AbjCoin"
-            VALUE "FileDescription",    "AbjCoin-Qt (OSS GUI client for AbjCoin)"
+            VALUE "CompanyName",        "Abjcoin"
+            VALUE "FileDescription",    "Abjcoin-Qt (OSS GUI client for Abjcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "abjcoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The AbjCoin developers"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The Abjcoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "abjcoin-qt.exe"
-            VALUE "ProductName",        "AbjCoin-Qt"
+            VALUE "ProductName",        "Abjcoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

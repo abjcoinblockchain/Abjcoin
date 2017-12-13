@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About AbjCoin</source>
-        <translation>O AbjCoin</translation>
+        <source>About Abjcoin</source>
+        <translation>O Abjcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;AbjCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;AbjCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Abjcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Abjcoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AbjCoin developers</source>
+Copyright © 2014 The Abjcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your AbjCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši AbjCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your Abjcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši Abjcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a AbjCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva AbjCoin naslova</translation>
+        <source>Sign a message to prove you own a Abjcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Abjcoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified AbjCoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim AbjCoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified Abjcoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Abjcoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>AbjCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>AbjCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Abjcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Abjcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about AbjCoin</source>
-        <translation>Pokaži informacije o AbjCoin</translation>
+        <source>Show information about Abjcoin</source>
+        <translation>Pokaži informacije o Abjcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a AbjCoin address</source>
-        <translation>Pošlji kovance na AbjCoin naslov</translation>
+        <source>Send coins to a Abjcoin address</source>
+        <translation>Pošlji kovance na Abjcoin naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for AbjCoin</source>
-        <translation>Spremeni nastavitve za AbjCoin</translation>
+        <source>Modify configuration options for Abjcoin</source>
+        <translation>Spremeni nastavitve za Abjcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>AbjCoin</source>
-        <translation>AbjCoin</translation>
+        <source>Abjcoin</source>
+        <translation>Abjcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About AbjCoin</source>
-        <translation>&amp;O AbjCoin</translation>
+        <source>&amp;About Abjcoin</source>
+        <translation>&amp;O Abjcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>AbjCoin client</source>
-        <translation>AbjCoin program</translation>
+        <source>Abjcoin client</source>
+        <translation>Abjcoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to AbjCoin network</source>
-        <translation><numerusform>%n aktivne povezave na AbjCoin omrežje</numerusform><numerusform>%n aktivnih povezav na AbjCoin omrežje</numerusform><numerusform>%n aktivnih povezav na AbjCoin omrežje</numerusform><numerusform>%n aktivnih povezav na AbjCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to Abjcoin network</source>
+        <translation><numerusform>%n aktivne povezave na Abjcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Abjcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Abjcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Abjcoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid AbjCoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega AbjCoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Abjcoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Abjcoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. AbjCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program AbjCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Abjcoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Abjcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid AbjCoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven AbjCoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Abjcoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Abjcoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>AbjCoin-Qt</source>
-        <translation>AbjCoin-Qt</translation>
+        <source>Abjcoin-Qt</source>
+        <translation>Abjcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start AbjCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi AbjCoin ob zagonu sistema.</translation>
+        <source>Automatically start Abjcoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi Abjcoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start AbjCoin on system login</source>
-        <translation>&amp;Zaženi AbjCoin ob prijavi v sistem</translation>
+        <source>&amp;Start Abjcoin on system login</source>
+        <translation>&amp;Zaženi Abjcoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the AbjCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za AbjCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Abjcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Abjcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the AbjCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na AbjCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the Abjcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na Abjcoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting AbjCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu AbjCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Abjcoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Abjcoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show AbjCoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza AbjCoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show Abjcoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza Abjcoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting AbjCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu AbjCoin aplikacije</translation>
+        <source>This setting will take effect after restarting Abjcoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Abjcoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AbjCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z AbjCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Abjcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Abjcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the AbjCoin-Qt help message to get a list with possible AbjCoin command-line options.</source>
-        <translation>Prikaži AbjCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice AbjCoin aplikacije</translation>
+        <source>Show the Abjcoin-Qt help message to get a list with possible Abjcoin command-line options.</source>
+        <translation>Prikaži Abjcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Abjcoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>AbjCoin - Debug window</source>
-        <translation>AbjCoin - okno za odpravljanje napak</translation>
+        <source>Abjcoin - Debug window</source>
+        <translation>Abjcoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>AbjCoin Core</source>
-        <translation>AbjCoin jedro</translation>
+        <source>Abjcoin Core</source>
+        <translation>Abjcoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the AbjCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri AbjCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Abjcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Abjcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the AbjCoin RPC console.</source>
-        <translation>Dobrodošli v AbjCoin RPC konzoli.</translation>
+        <source>Welcome to the Abjcoin RPC console.</source>
+        <translation>Dobrodošli v Abjcoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite AbjCoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Abjcoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid AbjCoin address</source>
-        <translation>OPOZORILO: Neveljaven AbjCoin naslov</translation>
+        <source>WARNING: Invalid Abjcoin address</source>
+        <translation>OPOZORILO: Neveljaven Abjcoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite AbjCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Abjcoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this AbjCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva AbjCoin naslova</translation>
+        <source>Sign the message to prove you own this Abjcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Abjcoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified AbjCoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim AbjCoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified Abjcoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Abjcoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite AbjCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Abjcoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter AbjCoin signature</source>
-        <translation>Vnesite AbjCoin podpis</translation>
+        <source>Enter Abjcoin signature</source>
+        <translation>Vnesite Abjcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>AbjCoin version</source>
-        <translation>AbjCoin različica</translation>
+        <source>Abjcoin version</source>
+        <translation>Abjcoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,8 +2673,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 24115 or testnet: 34115)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 24115 ali testnet: 34115) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 29029 or testnet: 39029)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 29029 ali testnet: 39029) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2733,8 +2733,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 24116 or testnet: 34116)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 24115 ali testnet: 34115) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29030 or testnet: 39030)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 29029 ali testnet: 39029) </translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AbjCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno AbjCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Abjcoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Abjcoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2994,7 +2994,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Abjcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;AbjCoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;Abjcoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;AbjCoin Alarm&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  AbjCoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija AbjCoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Abjcoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Abjcoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>AbjCoin</source>
-        <translation>AbjCoin</translation>
+        <source>Abjcoin</source>
+        <translation>Abjcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;AbjCoin Alarm&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of AbjCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo AbjCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Abjcoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Abjcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart AbjCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite AbjCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Abjcoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Abjcoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;AbjCoin Alarm&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. AbjCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča AbjCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Abjcoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Abjcoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

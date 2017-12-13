@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About AbjCoin</source>
-        <translation>Despre AbjCoin</translation>
+        <source>About Abjcoin</source>
+        <translation>Despre Abjcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;AbjCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;AbjCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Abjcoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Abjcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AbjCoin developers</source>
+Copyright © 2014 The Abjcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AbjCoin developers</translation>
+Copyright © 2014 The Abjcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your AbjCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele AbjCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Abjcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Abjcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a AbjCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă AbjCoin</translation>
+        <source>Sign a message to prove you own a Abjcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Abjcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified AbjCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă AbjCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Abjcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Abjcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>AbjCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>AbjCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Abjcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Abjcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about AbjCoin</source>
-        <translation>Arată informații despre AbjCoin</translation>
+        <source>Show information about Abjcoin</source>
+        <translation>Arată informații despre Abjcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a AbjCoin address</source>
-        <translation>Trimite monede către o adresă AbjCoin</translation>
+        <source>Send coins to a Abjcoin address</source>
+        <translation>Trimite monede către o adresă Abjcoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for AbjCoin</source>
-        <translation>Modifică opțiuni de configurare pentru AbjCoin</translation>
+        <source>Modify configuration options for Abjcoin</source>
+        <translation>Modifică opțiuni de configurare pentru Abjcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>AbjCoin</source>
-        <translation>AbjCoin</translation>
+        <source>Abjcoin</source>
+        <translation>Abjcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About AbjCoin</source>
-        <translation>Despre AbjCoin</translation>
+        <source>&amp;About Abjcoin</source>
+        <translation>Despre Abjcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>AbjCoin client</source>
-        <translation>Clientul AbjCoin</translation>
+        <source>Abjcoin client</source>
+        <translation>Clientul Abjcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to AbjCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua AbjCoin</numerusform><numerusform>%n conexiuni active la reteaua AbjCoin</numerusform><numerusform>%n conexiuni active la reteaua AbjCoin</numerusform></translation>
+        <source>%n active connection(s) to Abjcoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Abjcoin</numerusform><numerusform>%n conexiuni active la reteaua Abjcoin</numerusform><numerusform>%n conexiuni active la reteaua Abjcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid AbjCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa AbjCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Abjcoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Abjcoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. AbjCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. AbjCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Abjcoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Abjcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid AbjCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă AbjCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Abjcoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Abjcoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>AbjCoin-Qt</source>
-        <translation>AbjCoin-Qt</translation>
+        <source>Abjcoin-Qt</source>
+        <translation>Abjcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start AbjCoin after logging in to the system.</source>
-        <translation>Pornește AbjCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start Abjcoin after logging in to the system.</source>
+        <translation>Pornește Abjcoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start AbjCoin on system login</source>
-        <translation>$Pornește AbjCoin la logarea în sistem</translation>
+        <source>&amp;Start Abjcoin on system login</source>
+        <translation>$Pornește Abjcoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the AbjCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul AbjCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Abjcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Abjcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the AbjCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua AbjCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Abjcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Abjcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting AbjCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea AbjCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Abjcoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Abjcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show AbjCoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese AbjCoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Abjcoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Abjcoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting AbjCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea AbjCoin.</translation>
+        <source>This setting will take effect after restarting Abjcoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Abjcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AbjCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua AbjCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Abjcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Abjcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the AbjCoin-Qt help message to get a list with possible AbjCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor AbjCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă AbjCoin.</translation>
+        <source>Show the Abjcoin-Qt help message to get a list with possible Abjcoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor Abjcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Abjcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>AbjCoin - Debug window</source>
-        <translation>AbjCoin - fereastră depanare</translation>
+        <source>Abjcoin - Debug window</source>
+        <translation>Abjcoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>AbjCoin Core</source>
-        <translation>AbjCoin Core</translation>
+        <source>Abjcoin Core</source>
+        <translation>Abjcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the AbjCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare AbjCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Abjcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Abjcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the AbjCoin RPC console.</source>
-        <translation>Bine ati venit la consola AbjCoin RPC.</translation>
+        <source>Welcome to the Abjcoin RPC console.</source>
+        <translation>Bine ati venit la consola Abjcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă AbjCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Abjcoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid AbjCoin address</source>
-        <translation>Atenție: Adresă AbjCoin invalidă</translation>
+        <source>WARNING: Invalid Abjcoin address</source>
+        <translation>Atenție: Adresă Abjcoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă AbjCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Abjcoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this AbjCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă AbjCoin</translation>
+        <source>Sign the message to prove you own this Abjcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Abjcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified AbjCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă AbjCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Abjcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Abjcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a AbjCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă AbjCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Abjcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Abjcoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter AbjCoin signature</source>
-        <translation>Introduceti semnatura AbjCoin</translation>
+        <source>Enter Abjcoin signature</source>
+        <translation>Introduceti semnatura Abjcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>AbjCoin version</source>
-        <translation>Versiune AbjCoin</translation>
+        <source>Abjcoin version</source>
+        <translation>Versiune Abjcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2675,8 +2675,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 24115 or testnet: 34115)</source>
-        <translation>Ascultă pentru conectări pe &lt;port&gt; (implicit:  24115 sau testnet: 34115) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 29029 or testnet: 39029)</source>
+        <translation>Ascultă pentru conectări pe &lt;port&gt; (implicit:  29029 sau testnet: 39029) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2735,8 +2735,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 24116 or testnet: 34116)</source>
-        <translation>Ascultă pentru conexiuni JSON-RPC pe &lt;port&gt; (implicit:24116 sau testnet: 34116)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29030 or testnet: 39030)</source>
+        <translation>Ascultă pentru conexiuni JSON-RPC pe &lt;port&gt; (implicit:29030 sau testnet: 39030)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AbjCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit AbjCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Abjcoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Abjcoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2996,7 +2996,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Abjcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
 Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=abjcoinrpc
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Abjcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  AbjCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Abjcoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>AbjCoin</source>
-        <translation>AbjCoin</translation>
+        <source>Abjcoin</source>
+        <translation>Abjcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of AbjCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de AbjCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Abjcoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Abjcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart AbjCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați AbjCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Abjcoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Abjcoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;AbjCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. AbjCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil AbjCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Abjcoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Abjcoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

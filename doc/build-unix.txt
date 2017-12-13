@@ -16,7 +16,7 @@ To Build
 cd src/
 make -f makefile.unix            # Headless abjcoin
 
-See readme-qt.rst for instructions on building AbjCoin QT,
+See readme-qt.rst for instructions on building Abjcoin QT,
 the graphical abjcoin.
 
 Dependencies
