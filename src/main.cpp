@@ -1137,7 +1137,7 @@ static unsigned int GetNextTargetRequiredV2(const CBlockIndex* pindexLast, bool 
 
 unsigned int GetNextTargetRequired(const CBlockIndex* pindexLast, bool fProofOfStake)
 {
-    if (pindexLast->nHeight < 1000)
+    if (pindexLast->nHeight < 10000)
         return GetNextTargetRequiredV1(pindexLast, fProofOfStake);
     else
         return GetNextTargetRequiredV2(pindexLast, fProofOfStake);
@@ -2485,10 +2485,10 @@ bool LoadBlockIndex(bool fAllowNew)
 
     if (fTestNet)
     {
-        pchMessageStart[0] = 0xa2;
-        pchMessageStart[1] = 0x60;
-        pchMessageStart[2] = 0x90;
-        pchMessageStart[3] = 0x6f;
+        pchMessageStart[0] = 0x2d;
+        pchMessageStart[1] = 0x27;
+        pchMessageStart[2] = 0x8e;
+        pchMessageStart[3] = 0xab;
 
         bnTrustedModulus.SetHex("f0d14cf72623dacfe738d0892b599be0f31052239cddd95a3f25101c801dc990453b38c9434efe3f372db39a32c2bb44cbaea72d62c8931fa785b0ec44531308df3e46069be5573e49bb29f4d479bfc3d162f57a5965db03810be7636da265bfced9c01a6b0296c77910ebdc8016f70174f0f18a57b3b971ac43a934c6aedbc5c866764a3622b5b7e3f9832b8b3f133c849dbcc0396588abcd1e41048555746e4823fb8aba5b3d23692c6857fccce733d6bb6ec1d5ea0afafecea14a0f6f798b6b27f77dc989c557795cc39a0940ef6bb29a7fc84135193a55bcfc2f01dd73efad1b69f45a55198bd0e6bef4d338e452f6a420f1ae2b1167b923f76633ab6e55");
         bnProofOfWorkLimit = bnProofOfWorkLimitTestNet; // 16 bits PoW target limit for testnet
@@ -2524,23 +2524,23 @@ bool LoadBlockIndex(bool fAllowNew)
 
         // MainNet:
 
-        //CBlock(hash=000001faef25dec4fbcf906e6242621df2c183bf232f263d0ba5b101911e4563, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1513015519, nBits=1e0fffff, nNonce=164482, vtx=1, vchBlockSig=)
-        //  Coinbase(hash=12630d16a9, nTime=1513015519, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+        //CBlock(hash=000001faef25dec4fbcf906e6242621df2c183bf232f263d0ba5b101911e4563, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1513245930, nBits=1e0fffff, nNonce=164482, vtx=1, vchBlockSig=)
+        //  Coinbase(hash=12630d16a9, nTime=1513245930, ver=1, vin.size=1, vout.size=1, nLockTime=0)
         //    CTxIn(COutPoint(0000000000, 4294967295), coinbase 00012a24323020466562203230313420426974636f696e2041544d7320636f6d6520746f20555341)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
 
         // TestNet:
 
-        //CBlock(hash=0000724595fb3b9609d441cbfb9577615c292abf07d996d3edabc48de843642d, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1513015519, nBits=1f00ffff, nNonce=216178, vtx=1, vchBlockSig=)
-        //  Coinbase(hash=12630d16a9, nTime=1513015519, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+        //CBlock(hash=0000724595fb3b9609d441cbfb9577615c292abf07d996d3edabc48de843642d, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=12630d16a97f24b287c8c2594dda5fb98c9e6c70fc61d44191931ea2aa08dc90, nTime=1513245930, nBits=1f00ffff, nNonce=216178, vtx=1, vchBlockSig=)
+        //  Coinbase(hash=12630d16a9, nTime=1513245930, ver=1, vin.size=1, vout.size=1, nLockTime=0)
         //    CTxIn(COutPoint(0000000000, 4294967295), coinbase 00012a24323020466562203230313420426974636f696e2041544d7320636f6d6520746f20555341)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
 
-        const char* pszTimestamp = "We forked the Abjcoin blockchain  Today";
+        const char* pszTimestamp = "11the of 12th 2017 we made new chain";
         CTransaction txNew;
-        txNew.nTime = 1513015519;
+        txNew.nTime = 1513245930;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2550,9 +2550,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1513015519;
+        block.nTime    = 1513245930;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 1929704 : 1929704;
+        block.nNonce   = !fTestNet ? 4082709 : 4082709;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
@@ -2578,7 +2578,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
                 
-        assert(block.hashMerkleRoot == uint256("0x6f1f6f4a969280199c7c50e81d8a6cab0a99c35aa9529f2f5e25b95dd1fcd08c"));
+        assert(block.hashMerkleRoot == uint256("0xdf7d5afdfa8de382a7de8eec9fe2ba4cc93de81cde612adc2da956ea246be3ea"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
@@ -2845,7 +2845,7 @@ bool static AlreadyHave(CTxDB& txdb, const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0x0d, 0xfd, 0x81, 0x4f };
+unsigned char pchMessageStart[4] = { 0x22, 0x3d, 0x04, 0xa6 };
 
 bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv)
 {
